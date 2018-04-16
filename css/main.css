@@ -1,0 +1,97 @@
+/* CSS */
+/*BASE STYLES*/
+body {
+    font-family: 'Open Sans', sans-serif;
+}
+/* HEADER */
+header {
+    background: #fff5ee;
+    clear: both;
+    height: 100px;
+    width: 1200px;
+}
+header h1 {
+    color: #660000;
+    font-size: 24px;
+    font-weight: bold;
+    padding-left: 20px;
+    padding-top: 40px;
+}
+/* FOOTER */
+footer {
+    clear: both;
+    height: 100px;
+    width: 1200px;
+}
+/* MAP */
+.map {
+    background: url(../img/map.png);
+    background-size: cover;
+    border-top: 1px solid #003f87;
+    border-bottom: 1px solid #003f87;
+    clear: both;
+    height: 400px;
+    width: 1200px;
+}
+img {
+    padding-left: 400px;
+    padding-top: 50px;
+}
+/* MEDIA */
+.media {
+    clear: both;
+    height: 400px;
+    width: 1200px;
+}
+h2 {
+    color: #660000;
+    font-size: 24px;
+    padding-left: 20px;
+}
+p {
+    font-size: 14px;
+    padding-left: 100px;
+}
+.img {
+    float: left;
+    width: 400px;
+}
+.vid {
+    padding-top: 50px;
+    float: left;
+    width: 400px;
+}
+.vid iframe {
+    padding-left: 50px;
+}
+/*ABOUT */
+.about {
+    background: #fff5ee;
+    border-top: 1px solid #003f87;
+    border-bottom: 1px solid #003f87;
+    clear: both;
+    height: 400px;
+    width: 1200px;
+}
+h2 {
+    font-size: 24px;
+    color: #660000;
+    padding-left: 20px;
+}
+.img {
+    float: left;
+    width: 400px;
+}
+.img img {
+    padding-left: 50px;
+}
+.text {
+    float: left;
+    padding-top: 50px;
+    width: 800px;
+}
+.text p {
+    font-size: 16px;
+    padding-left: 50px;
+    padding-right: 50px;
+}
